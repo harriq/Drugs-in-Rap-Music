@@ -1,4 +1,6 @@
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZengOKCUBHo&psig=AOvVaw24baQMRd_yFpZ-mTDTLziA&ust=1614292074530000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCj8uDIg-8CFQAAAAAdAAAAABAD.png)
+![Righteous](https://i.ytimg.com/vi/ZengOKCUBHo/maxresdefault.jpg)
+Format: ![[Click to Open on Youtube](https://www.youtube.com/watch?v=ZengOKCUBHo)
+
 
 ## "Righteous” - Juice WRLD, *Legends Never Die* (2020)
 
